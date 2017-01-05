@@ -1,0 +1,6 @@
+c:\users\chue_\documents\visual studio 2015\Projects\homeproject2\homeproject2\bin\Debug\homeproject2.exe.config
+c:\users\chue_\documents\visual studio 2015\Projects\homeproject2\homeproject2\bin\Debug\homeproject2.exe
+c:\users\chue_\documents\visual studio 2015\Projects\homeproject2\homeproject2\bin\Debug\homeproject2.pdb
+c:\users\chue_\documents\visual studio 2015\Projects\homeproject2\homeproject2\obj\Debug\homeproject2.exe
+c:\users\chue_\documents\visual studio 2015\Projects\homeproject2\homeproject2\obj\Debug\homeproject2.pdb
+c:\users\chue_\documents\visual studio 2015\Projects\homeproject2\homeproject2\obj\Debug\homeproject2.csprojResolveAssemblyReference.cache
